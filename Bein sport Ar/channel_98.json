@@ -4,7 +4,7 @@
   "servers": [
     {
       "serverName": "Player 1",
-      "url": "https://xameleon.phantemlis.top/five/secure/634103309a980646d5492153fd3383f0/1787586407/premium98/index.m3u8",
+      "url": "https://xameleon.phantemlis.top/five/secure/285a8f3e0f41b42f9bbd5d1ba9787684/1787607593/premium98/index.m3u8",
       "headers": {
         "sec-ch-ua-platform": "\"Linux\"",
         "referer": "https://hamis.romponalis.st/",
@@ -16,7 +16,7 @@
     },
     {
       "serverName": "Player 3",
-      "url": "https://xameleon.phantemlis.top/five/secure/38d021dd479814b08a057ddf8b8e16c9/1787586421/premium98/index.m3u8",
+      "url": "https://xameleon.phantemlis.top/five/secure/47898f4bf4e196db544d173f993088d1/1787607607/premium98/index.m3u8",
       "headers": {
         "sec-ch-ua-platform": "\"Linux\"",
         "referer": "https://hamis.romponalis.st/",
@@ -27,20 +27,8 @@
       }
     },
     {
-      "serverName": "Player 6",
-      "url": "https://ds164.bluetier.top/beINAR8/index.m3u8?token=YmVJTkFSOHxub19jaGVja19pcHwxNzg3NTc1OTQ3.ae0d62853405d9a78a9ae658c5760363da112b83bcd16778e0f08305f1abf9bc",
-      "headers": {
-        "sec-ch-ua-platform": "\"Linux\"",
-        "referer": "https://wideiptv.top/",
-        "accept-language": "en-US,en;q=0.9",
-        "sec-ch-ua": "\"Not/A)Brand\";v=\"99\", \"Chromium\";v=\"148\"",
-        "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/148.0.0.0 Safari/537.36",
-        "sec-ch-ua-mobile": "?0"
-      }
-    },
-    {
       "serverName": "Player 7",
-      "url": "https://xameleon.phantemlis.top/five/secure/3372246863212c1bc89e6edb33ea08c5/1787586451/premium98/index.m3u8",
+      "url": "https://xameleon.phantemlis.top/five/secure/4b3fbf159741f1813cb4e3825a98e967/1787607635/premium98/index.m3u8",
       "headers": {
         "sec-ch-ua-platform": "\"Linux\"",
         "referer": "https://hamis.romponalis.st/",
