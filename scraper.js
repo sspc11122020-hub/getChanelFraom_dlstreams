@@ -3,7 +3,7 @@ const fs = require('fs/promises');
 const path = require('path');
 const axios = require('axios');
 
-const BASE_URL = 'https://dlstreams.st/24-7-channels.php'; // تم استبدال النطاق للحماية
+const BASE_URL = 'https://dlstreams.st'; // تم استبدال النطاق للحماية
 const FOLDER_NAME = 'Bein sport Ar';
 
 // دالة لفحص السيرفر إذا كان يعمل
