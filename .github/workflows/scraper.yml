@@ -1,0 +1,34 @@
+name: Stream Scraper Workflow
+
+on:
+  schedule:
+    - cron: '0 */6 * * *' # يعمل كل 6 ساعات
+  workflow_dispatch: # يتيح لك تشغيله يدوياً
+
+jobs:
+  scrape-and-update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      - name: Install Dependencies
+        run: |
+          npm init -y
+          npm install puppeteer axios
+
+      - name: Run Scraper Script
+        run: node scraper.js
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name 'GitHub Action Bot'
+          git config --global user.email 'action@github.com'
+          git add "Bein sport Ar/"
+          git commit -m "Auto-update: Streams and Headers" || echo "No changes to commit"
+          git push
