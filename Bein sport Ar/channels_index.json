@@ -1,0 +1,47 @@
+[
+  {
+    "id": 91,
+    "name": "beIN Sports 1 Arabic",
+    "file": "channel_91.json"
+  },
+  {
+    "id": 92,
+    "name": "beIN Sports 2 Arabic",
+    "file": "channel_92.json"
+  },
+  {
+    "id": 93,
+    "name": "beIN Sports 3 Arabic",
+    "file": "channel_93.json"
+  },
+  {
+    "id": 94,
+    "name": "beIN Sports 4 Arabic",
+    "file": "channel_94.json"
+  },
+  {
+    "id": 95,
+    "name": "beIN Sports 5 Arabic",
+    "file": "channel_95.json"
+  },
+  {
+    "id": 96,
+    "name": "beIN Sports 6 Arabic",
+    "file": "channel_96.json"
+  },
+  {
+    "id": 97,
+    "name": "beIN Sports 7 Arabic",
+    "file": "channel_97.json"
+  },
+  {
+    "id": 98,
+    "name": "beIN Sports 8 Arabic",
+    "file": "channel_98.json"
+  },
+  {
+    "id": 99,
+    "name": "beIN Sports 9 Arabic",
+    "file": "channel_99.json"
+  }
+]
