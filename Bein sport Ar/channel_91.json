@@ -4,7 +4,7 @@
   "servers": [
     {
       "serverName": "Player 1",
-      "url": "https://xameleon.phantemlis.top/four/secure/273e06a95d29a94452e084ae8a2e14a1/1787759002/premium91/index.m3u8",
+      "url": "https://xameleon.phantemlis.top/four/secure/1846d368de42d6dad78938e6d278870b/1787784275/premium91/index.m3u8",
       "headers": {
         "sec-ch-ua-platform": "\"Linux\"",
         "referer": "https://hamis.romponalis.st/",
@@ -16,7 +16,7 @@
     },
     {
       "serverName": "Player 3",
-      "url": "https://xameleon.phantemlis.top/four/secure/79283c9c4c7b25cae07ca6ab26642972/1787759016/premium91/index.m3u8",
+      "url": "https://xameleon.phantemlis.top/four/secure/f81c418d20e24527af6e396f3cef74eb/1787784289/premium91/index.m3u8",
       "headers": {
         "sec-ch-ua-platform": "\"Linux\"",
         "referer": "https://hamis.romponalis.st/",
@@ -28,7 +28,7 @@
     },
     {
       "serverName": "Player 4",
-      "url": "https://hdesx.cdx-08192.website/main/secure/407e3199d57255a1125456d46d0d9ea038b5910627ed0d80cec01553d27c695b/1787757220/beinsports1-sa.m3u8",
+      "url": "https://hdesx.cdx-08192.website/main/secure/c4116056b62a5a6f8fe62f1cfee96ccdc6b8bb7eebcb0da884bc365d6f7b40dc/1787782492/beinsports1-sa.m3u8",
       "headers": {
         "sec-ch-ua-platform": "\"Linux\"",
         "referer": "https://cdx-08192.website/",
@@ -40,7 +40,7 @@
     },
     {
       "serverName": "Player 6",
-      "url": "https://ds164.bluetier.top/beINAR/index.m3u8?token=YmVJTkFSfG5vX2NoZWNrX2lwfDE3ODc3NDg1MzU=.7276c18ca2643c1d3cb6566f2b6a21495f1aea63c129f6b936b273a75bbeedf5",
+      "url": "https://ds164.bluetier.top/beINAR/index.m3u8?token=YmVJTkFSfG5vX2NoZWNrX2lwfDE3ODc3NzM4MDc=.c3ce6d5ed997d2cb06d1d90da581a3767b4e94d0c7a8ce8c1ef628f5615f2f7e",
       "headers": {
         "sec-ch-ua-platform": "\"Linux\"",
         "referer": "https://wideiptv.top/",
@@ -52,7 +52,7 @@
     },
     {
       "serverName": "Player 7",
-      "url": "https://xameleon.phantemlis.top/four/secure/115ba90cbf218eaf0d478854b4dab6cc/1787759039/premium91/index.m3u8",
+      "url": "https://xameleon.phantemlis.top/four/secure/8fbb8c1ade765b2b35cec040208bb368/1787784310/premium91/index.m3u8",
       "headers": {
         "sec-ch-ua-platform": "\"Linux\"",
         "referer": "https://hamis.romponalis.st/",
