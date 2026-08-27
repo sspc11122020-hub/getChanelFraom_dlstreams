@@ -4,7 +4,7 @@
   "servers": [
     {
       "serverName": "Player 1",
-      "url": "https://xameleon.phantemlis.top/four/secure/8a579d6022b45957dd9263ce47597812/1787825019/premium91/index.m3u8",
+      "url": "https://xameleon.phantemlis.top/four/secure/b3895a862997bdb3e6164520a5e1a431/1787877655/premium91/index.m3u8",
       "headers": {
         "sec-ch-ua-platform": "\"Linux\"",
         "referer": "https://hamis.romponalis.st/",
@@ -16,7 +16,7 @@
     },
     {
       "serverName": "Player 3",
-      "url": "https://xameleon.phantemlis.top/four/secure/2860c47d514cb3f78ecd09046289a18c/1787825033/premium91/index.m3u8",
+      "url": "https://xameleon.phantemlis.top/four/secure/77f6f8e32911525068d7f6b068f9547d/1787877669/premium91/index.m3u8",
       "headers": {
         "sec-ch-ua-platform": "\"Linux\"",
         "referer": "https://hamis.romponalis.st/",
@@ -27,11 +27,11 @@
       }
     },
     {
-      "serverName": "Player 4",
-      "url": "https://hdesx.cdx-08192.website/main/secure/8769f16fa188d46cbe5e64d7011e165d43894e5e10887d2892f02802735b12b6/1787823236/beinsports1-sa.m3u8",
+      "serverName": "Player 6",
+      "url": "https://ds164.bluetier.top/beINAR/index.m3u8?token=YmVJTkFSfG5vX2NoZWNrX2lwfDE3ODc4NjcxOTQ=.296dbeb9db1025a74443add420e090791fe0c40e0fa355e4c2a33f3a1ffab2cb",
       "headers": {
         "sec-ch-ua-platform": "\"Linux\"",
-        "referer": "https://cdx-08192.website/",
+        "referer": "https://wideiptv.top/",
         "accept-language": "en-US,en;q=0.9",
         "sec-ch-ua": "\"Not/A)Brand\";v=\"99\", \"Chromium\";v=\"148\"",
         "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/148.0.0.0 Safari/537.36",
@@ -40,7 +40,7 @@
     },
     {
       "serverName": "Player 7",
-      "url": "https://xameleon.phantemlis.top/four/secure/8f056ce6f2598b6316cf47f7a529d9c5/1787825058/premium91/index.m3u8",
+      "url": "https://xameleon.phantemlis.top/four/secure/5422206ae705e84a23ae07e9bb6fa095/1787877696/premium91/index.m3u8",
       "headers": {
         "sec-ch-ua-platform": "\"Linux\"",
         "referer": "https://hamis.romponalis.st/",
