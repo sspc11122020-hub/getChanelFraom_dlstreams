@@ -4,7 +4,7 @@
   "servers": [
     {
       "serverName": "Player 1",
-      "url": "https://xameleon.phantemlis.top/four/secure/fcfe2d2c7fe6520b957c458f30d4e094/1787877747/premium93/index.m3u8",
+      "url": "https://xameleon.phantemlis.top/four/secure/b099b2136408e8618653aeb54a6f1938/1787917964/premium93/index.m3u8",
       "headers": {
         "sec-ch-ua-platform": "\"Linux\"",
         "referer": "https://hamis.romponalis.st/",
@@ -16,7 +16,7 @@
     },
     {
       "serverName": "Player 3",
-      "url": "https://xameleon.phantemlis.top/four/secure/353b1309f52f3f72f09be12e4162e5cd/1787877761/premium93/index.m3u8",
+      "url": "https://xameleon.phantemlis.top/four/secure/dfaffa6aa53d82b5deeadbc4dae9b8f9/1787917977/premium93/index.m3u8",
       "headers": {
         "sec-ch-ua-platform": "\"Linux\"",
         "referer": "https://hamis.romponalis.st/",
@@ -28,7 +28,7 @@
     },
     {
       "serverName": "Player 7",
-      "url": "https://xameleon.phantemlis.top/four/secure/d9839292d906729eeacb2417e93e7caf/1787877788/premium93/index.m3u8",
+      "url": "https://xameleon.phantemlis.top/four/secure/320487672c0ef67e5427baa7930bfd17/1787918004/premium93/index.m3u8",
       "headers": {
         "sec-ch-ua-platform": "\"Linux\"",
         "referer": "https://hamis.romponalis.st/",
