@@ -4,19 +4,27 @@
   "servers": [
     {
       "serverName": "Player 1",
-      "url": "https://xameleon.phantemlis.top/four/secure/af93c278b68f2f0229cdca6946cd5027/1788305382/premium92/index.m3u8",
+      "url": "https://xameleon.phantemlis.top/four/secure/a2033ddc7d5087a063459dcc848e0fde/1788327674/premium92/index.m3u8",
       "headers": {
         "sec-ch-ua-platform": "\"Linux\"",
         "referer": "https://hamis.romponalis.st/",
         "accept-language": "en-US,en;q=0.9",
         "sec-ch-ua": "\"Not/A)Brand\";v=\"99\", \"Chromium\";v=\"148\"",
         "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/148.0.0.0 Safari/537.36",
-        "sec-ch-ua-mobile": "?0"
+        "sec-ch-ua-mobile": "?0",
+        "accept": "*/*",
+        "accept-encoding": "gzip, deflate, br, zstd",
+        "connection": "keep-alive",
+        "host": "xameleon.phantemlis.top",
+        "origin": "https://hamis.romponalis.st",
+        "sec-fetch-dest": "empty",
+        "sec-fetch-mode": "cors",
+        "sec-fetch-site": "cross-site"
       }
     },
     {
       "serverName": "Player 3",
-      "url": "https://xameleon.phantemlis.top/four/secure/22189248289a1bb66c3cb9bdc229cc49/1788305396/premium92/index.m3u8",
+      "url": "https://xameleon.phantemlis.top/four/secure/61e5de0372662832440321a850783294/1788327687/premium92/index.m3u8",
       "headers": {
         "sec-ch-ua-platform": "\"Linux\"",
         "referer": "https://hamis.romponalis.st/",
@@ -28,7 +36,7 @@
     },
     {
       "serverName": "Player 4",
-      "url": "https://hdesx.cdx-08192.website/main/secure/f3035d6adefdf3511fed08c2b7b21d022bc664049b384250b9fcbfb277b1dd25/1788303599/beinsports2-sa.m3u8",
+      "url": "https://hdesx.cdx-08192.website/main/secure/1b5956207456aa158d8ff7974ecf11b992b283c334af2eaf0c6b27a60699ff55/1788325891/beinsports2-sa.m3u8",
       "headers": {
         "sec-ch-ua-platform": "\"Linux\"",
         "referer": "https://epiembeds.online/",
@@ -40,7 +48,7 @@
     },
     {
       "serverName": "Player 6",
-      "url": "https://ds164.bluetier.top/beINAR2/index.m3u8?token=YmVJTkFSMnxub19jaGVja19pcHwxNzg4Mjk0OTE5.70d526fb4cdc18b29235fa34ea669ca18d64519ecd67a35045baaadcd8ef9216",
+      "url": "https://ds164.bluetier.top/beINAR2/index.m3u8?token=YmVJTkFSMnxub19jaGVja19pcHwxNzg4MzE3MjA2.37941ebd2c81735e9c50575c4aeaa799e2720c807814fc949d845c1a158f9817",
       "headers": {
         "sec-ch-ua-platform": "\"Linux\"",
         "referer": "https://wideiptv.top/",
@@ -52,7 +60,7 @@
     },
     {
       "serverName": "Player 7",
-      "url": "https://xameleon.phantemlis.top/four/secure/ea1f16d539bd51e40b9ee2097470b62e/1788305427/premium92/index.m3u8",
+      "url": "https://xameleon.phantemlis.top/four/secure/36f80a356e1096fe4ae8df8638a42c35/1788327709/premium92/index.m3u8",
       "headers": {
         "sec-ch-ua-platform": "\"Linux\"",
         "referer": "https://hamis.romponalis.st/",
