@@ -3,8 +3,20 @@
   "name": "beIN Sports 4 Arabic",
   "servers": [
     {
+      "serverName": "Player 1",
+      "url": "https://xameleon.phantemlis.top/four/secure/9bbfeaf8b29fcadd43b9dd54b3e4646e/1788700445/premium94/index.m3u8",
+      "headers": {
+        "sec-ch-ua-platform": "\"Linux\"",
+        "referer": "https://hamis.romponalis.st/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not/A)Brand\";v=\"99\", \"Chromium\";v=\"148\"",
+        "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/148.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
       "serverName": "Player 3",
-      "url": "https://xameleon.phantemlis.top/four/secure/367f19a55eaec06ebcc6dde5213be892/1788673543/premium94/index.m3u8",
+      "url": "https://xameleon.phantemlis.top/four/secure/61303bdb71326154e693d941edbd1642/1788700459/premium94/index.m3u8",
       "headers": {
         "sec-ch-ua-platform": "\"Linux\"",
         "referer": "https://hamis.romponalis.st/",
@@ -16,7 +28,7 @@
     },
     {
       "serverName": "Player 7",
-      "url": "https://xameleon.phantemlis.top/four/secure/b724049a0649874666dd7bf8882057ff/1788673569/premium94/index.m3u8",
+      "url": "https://xameleon.phantemlis.top/four/secure/bbe8a6325aeaeca894c389f6585df64d/1788700486/premium94/index.m3u8",
       "headers": {
         "sec-ch-ua-platform": "\"Linux\"",
         "referer": "https://hamis.romponalis.st/",
