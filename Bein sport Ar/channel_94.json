@@ -4,19 +4,27 @@
   "servers": [
     {
       "serverName": "Player 1",
-      "url": "https://xameleon.phantemlis.top/four/secure/9bbfeaf8b29fcadd43b9dd54b3e4646e/1788700445/premium94/index.m3u8",
+      "url": "https://xameleon.phantemlis.top/four/secure/b3f10d8b27507e0aa6276d8a24432260/1788717232/premium94/index.m3u8",
       "headers": {
         "sec-ch-ua-platform": "\"Linux\"",
         "referer": "https://hamis.romponalis.st/",
         "accept-language": "en-US,en;q=0.9",
         "sec-ch-ua": "\"Not/A)Brand\";v=\"99\", \"Chromium\";v=\"148\"",
         "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/148.0.0.0 Safari/537.36",
-        "sec-ch-ua-mobile": "?0"
+        "sec-ch-ua-mobile": "?0",
+        "accept": "*/*",
+        "accept-encoding": "gzip, deflate, br, zstd",
+        "connection": "keep-alive",
+        "host": "xameleon.phantemlis.top",
+        "origin": "https://hamis.romponalis.st",
+        "sec-fetch-dest": "empty",
+        "sec-fetch-mode": "cors",
+        "sec-fetch-site": "cross-site"
       }
     },
     {
       "serverName": "Player 3",
-      "url": "https://xameleon.phantemlis.top/four/secure/61303bdb71326154e693d941edbd1642/1788700459/premium94/index.m3u8",
+      "url": "https://xameleon.phantemlis.top/four/secure/4b944bcc96efc8507faea867d2f532eb/1788717248/premium94/index.m3u8",
       "headers": {
         "sec-ch-ua-platform": "\"Linux\"",
         "referer": "https://hamis.romponalis.st/",
@@ -28,7 +36,7 @@
     },
     {
       "serverName": "Player 7",
-      "url": "https://xameleon.phantemlis.top/four/secure/bbe8a6325aeaeca894c389f6585df64d/1788700486/premium94/index.m3u8",
+      "url": "https://xameleon.phantemlis.top/four/secure/f72131825a5e49974b6c1a9ededfdc09/1788717275/premium94/index.m3u8",
       "headers": {
         "sec-ch-ua-platform": "\"Linux\"",
         "referer": "https://hamis.romponalis.st/",
