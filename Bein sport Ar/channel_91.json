@@ -4,7 +4,7 @@
   "servers": [
     {
       "serverName": "Player 1",
-      "url": "https://xameleon.phantemlis.top/four/secure/bb9220013534d1d829d413c968ba4f31/1788874276/premium91/index.m3u8",
+      "url": "https://xameleon.phantemlis.top/four/secure/5f6c07899311a961f94a245d20832504/1788893721/premium91/index.m3u8",
       "headers": {
         "sec-ch-ua-platform": "\"Linux\"",
         "referer": "https://hamis.romponalis.st/",
@@ -16,7 +16,7 @@
     },
     {
       "serverName": "Player 3",
-      "url": "https://xameleon.phantemlis.top/four/secure/dea08e88cf289b995546eb104a1e5cd6/1788874289/premium91/index.m3u8",
+      "url": "https://xameleon.phantemlis.top/four/secure/940e765de5c67fa03cfbb8a4f514e9ce/1788893734/premium91/index.m3u8",
       "headers": {
         "sec-ch-ua-platform": "\"Linux\"",
         "referer": "https://hamis.romponalis.st/",
@@ -28,7 +28,7 @@
     },
     {
       "serverName": "Player 6",
-      "url": "https://ds164.bluetier.top/beINAR/index.m3u8?token=YmVJTkFSfG5vX2NoZWNrX2lwfDE3ODg4NjM4MDc=.177230b172caf6b9164ddfb662ae4ef78db72a1c747326fce52be89101b396a7",
+      "url": "https://ds164.bluetier.top/beINAR/index.m3u8?token=YmVJTkFSfG5vX2NoZWNrX2lwfDE3ODg4ODMyNTI=.867294a5c4553768f44e2b38bd9173f65a909e9a7db38e3e3ac42faad14888ef",
       "headers": {
         "sec-ch-ua-platform": "\"Linux\"",
         "referer": "https://wideiptv.top/",
@@ -40,7 +40,7 @@
     },
     {
       "serverName": "Player 7",
-      "url": "https://xameleon.phantemlis.top/four/secure/92c98caa99a6172567cc4f00a3b499ec/1788874311/premium91/index.m3u8",
+      "url": "https://xameleon.phantemlis.top/four/secure/a204018debc63cc97827176bbee06f66/1788893754/premium91/index.m3u8",
       "headers": {
         "sec-ch-ua-platform": "\"Linux\"",
         "referer": "https://hamis.romponalis.st/",
