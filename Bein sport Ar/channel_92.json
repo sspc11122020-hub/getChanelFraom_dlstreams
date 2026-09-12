@@ -3,11 +3,47 @@
   "name": "beIN Sports 2 Arabic",
   "servers": [
     {
+      "serverName": "Player 1",
+      "url": "https://xameleon.phantemlis.top/four/secure/3ea60ebb8083f99f7d273bdf0231b5a6/1789192652/premium92/index.m3u8",
+      "headers": {
+        "sec-ch-ua-platform": "\"Linux\"",
+        "referer": "https://hamis.romponalis.st/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not/A)Brand\";v=\"99\", \"Chromium\";v=\"148\"",
+        "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/148.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "serverName": "Player 3",
+      "url": "https://xameleon.phantemlis.top/four/secure/653629725c0461522bb2c80040fa6068/1789192666/premium92/index.m3u8",
+      "headers": {
+        "sec-ch-ua-platform": "\"Linux\"",
+        "referer": "https://hamis.romponalis.st/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not/A)Brand\";v=\"99\", \"Chromium\";v=\"148\"",
+        "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/148.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
       "serverName": "Player 6",
-      "url": "https://ds164.bluetier.top/beINAR2/index.m3u8?token=YmVJTkFSMnxub19jaGVja19pcHwxNzg5MTU4NTgz.126261ab91d9d7181a679b09684c3d185532cbd47e5394e33a66dea024e83f9a",
+      "url": "https://ds164.bluetier.top/beINAR2/index.m3u8?token=YmVJTkFSMnxub19jaGVja19pcHwxNzg5MTgyMTgz.323801394071c2c06c540e6855573ce2bf6192cfcee8237371d245ab0db1ae1a",
       "headers": {
         "sec-ch-ua-platform": "\"Linux\"",
         "referer": "https://wideiptv.top/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not/A)Brand\";v=\"99\", \"Chromium\";v=\"148\"",
+        "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/148.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "serverName": "Player 7",
+      "url": "https://xameleon.phantemlis.top/four/secure/db113fc38fa7e7e87dd31a9e509acd0d/1789192686/premium92/index.m3u8",
+      "headers": {
+        "sec-ch-ua-platform": "\"Linux\"",
+        "referer": "https://hamis.romponalis.st/",
         "accept-language": "en-US,en;q=0.9",
         "sec-ch-ua": "\"Not/A)Brand\";v=\"99\", \"Chromium\";v=\"148\"",
         "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/148.0.0.0 Safari/537.36",
