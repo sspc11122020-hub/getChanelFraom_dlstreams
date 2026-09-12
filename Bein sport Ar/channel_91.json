@@ -3,32 +3,8 @@
   "name": "beIN Sports 1 Arabic",
   "servers": [
     {
-      "serverName": "Player 1",
-      "url": "https://xameleon.phantemlis.top/four/secure/58465587b132322172fbdc72fa2c7204/1789218051/premium91/index.m3u8",
-      "headers": {
-        "sec-ch-ua-platform": "\"Linux\"",
-        "referer": "https://hamis.romponalis.st/",
-        "accept-language": "en-US,en;q=0.9",
-        "sec-ch-ua": "\"Not/A)Brand\";v=\"99\", \"Chromium\";v=\"148\"",
-        "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/148.0.0.0 Safari/537.36",
-        "sec-ch-ua-mobile": "?0"
-      }
-    },
-    {
-      "serverName": "Player 3",
-      "url": "https://xameleon.phantemlis.top/four/secure/f9a6456e8bb8ad52c7249c99a3243fc5/1789218065/premium91/index.m3u8",
-      "headers": {
-        "sec-ch-ua-platform": "\"Linux\"",
-        "referer": "https://hamis.romponalis.st/",
-        "accept-language": "en-US,en;q=0.9",
-        "sec-ch-ua": "\"Not/A)Brand\";v=\"99\", \"Chromium\";v=\"148\"",
-        "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/148.0.0.0 Safari/537.36",
-        "sec-ch-ua-mobile": "?0"
-      }
-    },
-    {
       "serverName": "Player 4",
-      "url": "https://epidd.hundxvision.co.uk/main/secure/62bc3693156a1f1f3e444ff883ec4288e642082c3b4bfd323578826ab7343793/1789216268/beinsports1-sa.m3u8",
+      "url": "https://epidd.hundxvision.co.uk/main/secure/9530f8c9e2f0a3ddbfc62d6f2e257517071ee2c6a6c91d4c47faa086a74b5be7/1789233948/beinsports1-sa.m3u8",
       "headers": {
         "sec-ch-ua-platform": "\"Linux\"",
         "referer": "https://epiembeds.online/",
@@ -39,11 +15,11 @@
       }
     },
     {
-      "serverName": "Player 7",
-      "url": "https://xameleon.phantemlis.top/four/secure/1b5d42551887b62f2892f3d26cd58895/1789218089/premium91/index.m3u8",
+      "serverName": "Player 6",
+      "url": "https://ds164.bluetier.top/beINAR/index.m3u8?token=YmVJTkFSfG5vX2NoZWNrX2lwfDE3ODkyMjUyNjM=.ad1fb00006db7b37d4821b3ab9d2192857aee21495a96edb95378aecaa7521ce",
       "headers": {
         "sec-ch-ua-platform": "\"Linux\"",
-        "referer": "https://hamis.romponalis.st/",
+        "referer": "https://wideiptv.top/",
         "accept-language": "en-US,en;q=0.9",
         "sec-ch-ua": "\"Not/A)Brand\";v=\"99\", \"Chromium\";v=\"148\"",
         "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/148.0.0.0 Safari/537.36",
