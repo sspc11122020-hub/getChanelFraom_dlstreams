@@ -4,7 +4,7 @@
   "servers": [
     {
       "serverName": "Player 4",
-      "url": "https://epidd.hundxvision.co.uk/main/secure/927bb858041ec5f8099b969bd450bc38e3aea04615b1858df1fb52bd7277d5b8/1789416381/beinsports2-sa.m3u8",
+      "url": "https://epidd.hundxvision.co.uk/main/secure/26b3b4f53404cdf3e18e44263538c0e2c91c584da3661141bf62fd05a894214a/1789430128/beinsports2-sa.m3u8",
       "headers": {
         "sec-ch-ua-platform": "\"Linux\"",
         "referer": "https://epiembeds.online/",
@@ -16,7 +16,7 @@
     },
     {
       "serverName": "Player 6",
-      "url": "https://ds164.bluetier.top/beINAR2/index.m3u8?token=YmVJTkFSMnxub19jaGVja19pcHwxNzg5NDA3Njk2.726ef383e5a1b95639664aca25c6097e67cea31155682f576911044d58e96e70",
+      "url": "https://ds164.bluetier.top/beINAR2/index.m3u8?token=YmVJTkFSMnxub19jaGVja19pcHwxNzg5NDIxNDQ0.0246c0f6091e502fffa8f3140dacb2e1e022d0bee0180ecf99e0d1a1a91a9a01",
       "headers": {
         "sec-ch-ua-platform": "\"Linux\"",
         "referer": "https://wideiptv.top/",
