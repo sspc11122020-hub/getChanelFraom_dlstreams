@@ -4,7 +4,7 @@
   "servers": [
     {
       "serverName": "Player 3",
-      "url": "https://xameleon.phantemlis.top/four/secure/f301d49766717782140156c67394fe20/1789366254/premium91/index.m3u8",
+      "url": "https://xameleon.phantemlis.top/four/secure/2175fc076b68f7825dade2d9d1052c8e/1789396856/premium91/index.m3u8",
       "headers": {
         "sec-ch-ua-platform": "\"Linux\"",
         "referer": "https://hamis.romponalis.st/",
@@ -16,7 +16,7 @@
     },
     {
       "serverName": "Player 4",
-      "url": "https://epidd.hundxvision.co.uk/main/secure/9026213de61e18c0aba7b843f667c8e70c233818315dda0f1bacdddc41c88297/1789364457/beinsports1-sa.m3u8",
+      "url": "https://epidd.hundxvision.co.uk/main/secure/82758466ae587b7211ccf7d2bb2b6dc523100288123fc3f122e54f142262814e/1789395059/beinsports1-sa.m3u8",
       "headers": {
         "sec-ch-ua-platform": "\"Linux\"",
         "referer": "https://epiembeds.online/",
@@ -28,7 +28,7 @@
     },
     {
       "serverName": "Player 6",
-      "url": "https://ds164.bluetier.top/beINAR/index.m3u8?token=YmVJTkFSfG5vX2NoZWNrX2lwfDE3ODkzNTU3NzI=.ae184a27202bc6474f03d7d8fbb7b08875a32fd4f13f0e49afd430e47c471fcb",
+      "url": "https://ds164.bluetier.top/beINAR/index.m3u8?token=YmVJTkFSfG5vX2NoZWNrX2lwfDE3ODkzODYzNzM=.f5fc4e4095911231949561f9b209cf73fb11977a00eeb1307cfa0776d51641ab",
       "headers": {
         "sec-ch-ua-platform": "\"Linux\"",
         "referer": "https://wideiptv.top/",
