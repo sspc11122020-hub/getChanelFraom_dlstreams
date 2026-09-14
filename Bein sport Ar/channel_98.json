@@ -3,20 +3,8 @@
   "name": "beIN Sports 8 Arabic",
   "servers": [
     {
-      "serverName": "Player 1",
-      "url": "https://xameleon.phantemlis.top/five/secure/ccb4dc05c8dbb66af149379e447b9156/1789308398/premium98/index.m3u8",
-      "headers": {
-        "sec-ch-ua-platform": "\"Linux\"",
-        "referer": "https://hamis.romponalis.st/",
-        "accept-language": "en-US,en;q=0.9",
-        "sec-ch-ua": "\"Not/A)Brand\";v=\"99\", \"Chromium\";v=\"148\"",
-        "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/148.0.0.0 Safari/537.36",
-        "sec-ch-ua-mobile": "?0"
-      }
-    },
-    {
       "serverName": "Player 3",
-      "url": "https://xameleon.phantemlis.top/five/secure/707554c55a370568924aabf7009d17bf/1789308411/premium98/index.m3u8",
+      "url": "https://xameleon.phantemlis.top/five/secure/116032ac5234b845ba9be35609c2c1c6/1789366594/premium98/index.m3u8",
       "headers": {
         "sec-ch-ua-platform": "\"Linux\"",
         "referer": "https://hamis.romponalis.st/",
@@ -27,11 +15,11 @@
       }
     },
     {
-      "serverName": "Player 7",
-      "url": "https://xameleon.phantemlis.top/five/secure/7fc25cdcc826b5bbbac7549085a92efc/1789308445/premium98/index.m3u8",
+      "serverName": "Player 6",
+      "url": "https://ds164.bluetier.top/beINAR8/index.m3u8?token=YmVJTkFSOHxub19jaGVja19pcHwxNzg5MzU2MTE5.22520377cca9ef1013073620242abacc28319369719f94d2dd94dbc8811320e9",
       "headers": {
         "sec-ch-ua-platform": "\"Linux\"",
-        "referer": "https://hamis.romponalis.st/",
+        "referer": "https://wideiptv.top/",
         "accept-language": "en-US,en;q=0.9",
         "sec-ch-ua": "\"Not/A)Brand\";v=\"99\", \"Chromium\";v=\"148\"",
         "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/148.0.0.0 Safari/537.36",
