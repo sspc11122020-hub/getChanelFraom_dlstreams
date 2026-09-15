@@ -3,20 +3,8 @@
   "name": "beIN Sports 2 Arabic",
   "servers": [
     {
-      "serverName": "Player 4",
-      "url": "https://epidd.hundxvision.co.uk/main/secure/986b9250e461f6fbee0149b937c0656303248bc42f1f5a9f26dc92f563fcfbd0/1789451032/beinsports2-sa.m3u8",
-      "headers": {
-        "sec-ch-ua-platform": "\"Linux\"",
-        "referer": "https://epiembeds.online/",
-        "accept-language": "en-US,en;q=0.9",
-        "sec-ch-ua": "\"Not/A)Brand\";v=\"99\", \"Chromium\";v=\"148\"",
-        "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/148.0.0.0 Safari/537.36",
-        "sec-ch-ua-mobile": "?0"
-      }
-    },
-    {
       "serverName": "Player 6",
-      "url": "https://ds164.bluetier.top/beINAR2/index.m3u8?token=YmVJTkFSMnxub19jaGVja19pcHwxNzg5NDQyMzQ2.8c04d66f1f9260be09702c481225ad1f18ff773add011aee2458d6f67c53c190",
+      "url": "https://ds164.bluetier.top/beINAR2/index.m3u8?token=YmVJTkFSMnxub19jaGVja19pcHwxNzg5NDg4OTkw.7eaf947f3e3cd09e9e18003b878f20c4d46350bfc5e54419b6fc17a11cb0a384",
       "headers": {
         "sec-ch-ua-platform": "\"Linux\"",
         "referer": "https://wideiptv.top/",

@@ -3,11 +3,11 @@
   "name": "beIN Sports 4 Arabic",
   "servers": [
     {
-      "serverName": "Player 3",
-      "url": "https://xameleon.phantemlis.top/four/secure/4cd4978e8037ca32ce61692ff8d7ad3f/1789396994/premium94/index.m3u8",
+      "serverName": "Player 1",
+      "url": "https://premium.hls.st/playlist/premium94.m3u8",
       "headers": {
         "sec-ch-ua-platform": "\"Linux\"",
-        "referer": "https://hamis.romponalis.st/",
+        "referer": "https://iplayer.is/",
         "accept-language": "en-US,en;q=0.9",
         "sec-ch-ua": "\"Not/A)Brand\";v=\"99\", \"Chromium\";v=\"148\"",
         "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/148.0.0.0 Safari/537.36",
