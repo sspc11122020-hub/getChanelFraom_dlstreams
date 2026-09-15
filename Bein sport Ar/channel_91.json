@@ -15,8 +15,20 @@
       }
     },
     {
+      "serverName": "Player 4",
+      "url": "https://epidd.hundxvision.co.uk/main/secure/5408f4ba29455a84bb744bc87b387d1009aedf626ca0dc6345308026e3e6db1f/1789514401/beinsports1-sa.m3u8",
+      "headers": {
+        "sec-ch-ua-platform": "\"Linux\"",
+        "referer": "https://epiembeds.online/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not/A)Brand\";v=\"99\", \"Chromium\";v=\"148\"",
+        "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/148.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
       "serverName": "Player 6",
-      "url": "https://ds164.bluetier.top/beINAR/index.m3u8?token=YmVJTkFSfG5vX2NoZWNrX2lwfDE3ODk0ODg5NDA=.d08303a5ab552b8c32cb8fe689f62ad9fe7172cb5c7177c990b44c9bfc3b44df",
+      "url": "https://ds164.bluetier.top/beINAR/index.m3u8?token=YmVJTkFSfG5vX2NoZWNrX2lwfDE3ODk1MDU3MTY=.5205e03d79e7fffb72a10d814cf900a509c06b3368a8c829e1442081f12d80de",
       "headers": {
         "sec-ch-ua-platform": "\"Linux\"",
         "referer": "https://wideiptv.top/",
