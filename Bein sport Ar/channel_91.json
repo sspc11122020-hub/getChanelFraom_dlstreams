@@ -3,20 +3,8 @@
   "name": "beIN Sports 1 Arabic",
   "servers": [
     {
-      "serverName": "Player 1",
-      "url": "https://premium.hls.st/playlist/premium91.m3u8",
-      "headers": {
-        "sec-ch-ua-platform": "\"Linux\"",
-        "referer": "https://iplayer.is/",
-        "accept-language": "en-US,en;q=0.9",
-        "sec-ch-ua": "\"Not/A)Brand\";v=\"99\", \"Chromium\";v=\"148\"",
-        "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/148.0.0.0 Safari/537.36",
-        "sec-ch-ua-mobile": "?0"
-      }
-    },
-    {
       "serverName": "Player 4",
-      "url": "https://epidd.hundxvision.co.uk/main/secure/92cc519df6e934299c940dc382ff32ef2f62247c4b9603d005c97f4733ccde99/1789600798/beinsports1-sa.m3u8",
+      "url": "https://epidd.hundxvision.co.uk/main/secure/1d2733b7cf455f3cb24ea55201ffb689d44bcb7a7ea1d12cfb8b4cba9dbf4acb/1789623838/beinsports1-sa.m3u8",
       "headers": {
         "sec-ch-ua-platform": "\"Linux\"",
         "referer": "https://epiembeds.online/",
@@ -28,7 +16,7 @@
     },
     {
       "serverName": "Player 6",
-      "url": "https://ds164.bluetier.top/beINAR/index.m3u8?token=YmVJTkFSfG5vX2NoZWNrX2lwfDE3ODk1OTIxMTY=.aeddcd3c01c39fa00ebfe6b14cca69c88243416dfe297f4a5c38d3a1901419f1",
+      "url": "https://ds164.bluetier.top/beINAR/index.m3u8?token=YmVJTkFSfG5vX2NoZWNrX2lwfDE3ODk2MTUxNTM=.0d8ee3e4bba3e9760655cd4a69142c5c471984ca310686addef3c6ae2683d9bb",
       "headers": {
         "sec-ch-ua-platform": "\"Linux\"",
         "referer": "https://wideiptv.top/",

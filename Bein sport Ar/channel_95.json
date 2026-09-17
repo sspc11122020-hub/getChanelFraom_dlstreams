@@ -3,11 +3,11 @@
   "name": "beIN Sports 5 Arabic",
   "servers": [
     {
-      "serverName": "Player 1",
-      "url": "https://premium.hls.st/playlist/premium95.m3u8",
+      "serverName": "Player 6",
+      "url": "https://ds164.bluetier.top/beINAR5/index.m3u8?token=YmVJTkFSNXxub19jaGVja19pcHwxNzg5NjE1Mzgy.0017f88ca5f8c4f62cd873b84d66463c806cc309630bab1a51f80e41373c616a",
       "headers": {
         "sec-ch-ua-platform": "\"Linux\"",
-        "referer": "https://iplayer.is/",
+        "referer": "https://wideiptv.top/",
         "accept-language": "en-US,en;q=0.9",
         "sec-ch-ua": "\"Not/A)Brand\";v=\"99\", \"Chromium\";v=\"148\"",
         "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/148.0.0.0 Safari/537.36",
