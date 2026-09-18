@@ -3,8 +3,20 @@
   "name": "beIN Sports 2 Arabic",
   "servers": [
     {
+      "serverName": "Player 3",
+      "url": "https://xameleon.phantemlis.top/six/secure/35a5d361019b409256c7366f4059e8c1/1789757196/premium92/index.m3u8",
+      "headers": {
+        "sec-ch-ua-platform": "\"Linux\"",
+        "referer": "https://hamis.romponalis.st/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not/A)Brand\";v=\"99\", \"Chromium\";v=\"148\"",
+        "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/148.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
       "serverName": "Player 4",
-      "url": "https://epidd.hundxvision.co.uk/main/secure/5177e6002be8e1a6cb3b1496931be850f4c96d93d252702d7f25edca0c4acc03/1789736465/beinsports2-sa.m3u8",
+      "url": "https://epidd.hundxvision.co.uk/main/secure/45c0c7f3f1ec3621f528c24c218e78047a9d32d6f52b2624af1aad6b56f91bb4/1789755400/beinsports2-sa.m3u8",
       "headers": {
         "sec-ch-ua-platform": "\"Linux\"",
         "referer": "https://epiembeds.online/",
@@ -16,7 +28,7 @@
     },
     {
       "serverName": "Player 6",
-      "url": "https://ds164.bluetier.top/beINAR2/index.m3u8?token=YmVJTkFSMnxub19jaGVja19pcHwxNzg5NzI3Nzgw.8c2f8735a37b5e5f9e00c0a352f13261bb22aebe120ee27222b125a6285a05f4",
+      "url": "https://ds164.bluetier.top/beINAR2/index.m3u8?token=YmVJTkFSMnxub19jaGVja19pcHwxNzg5NzQ2NzE0.0355283c7fa6fefda60d178d1acab5df188be9c94129dd601178d6b781e42e98",
       "headers": {
         "sec-ch-ua-platform": "\"Linux\"",
         "referer": "https://wideiptv.top/",
