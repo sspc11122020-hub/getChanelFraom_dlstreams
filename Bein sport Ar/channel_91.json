@@ -3,32 +3,8 @@
   "name": "beIN Sports 1 Arabic",
   "servers": [
     {
-      "serverName": "Player 3",
-      "url": "https://xameleon.phantemlis.top/four/secure/099799e32e7b7c4448b4d55e9109c77b/1789928522/premium91/index.m3u8",
-      "headers": {
-        "sec-ch-ua-platform": "\"Linux\"",
-        "referer": "https://hamis.romponalis.st/",
-        "accept-language": "en-US,en;q=0.9",
-        "sec-ch-ua": "\"Not/A)Brand\";v=\"99\", \"Chromium\";v=\"148\"",
-        "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/148.0.0.0 Safari/537.36",
-        "sec-ch-ua-mobile": "?0"
-      }
-    },
-    {
-      "serverName": "Player 4",
-      "url": "https://epidd.hundxvision.co.uk/main/secure/b075b61311d9af47259b8eadd7ca21d3d9ff8f23893643b81ad3a0e98cca2265/1789926725/beinsports1-sa.m3u8",
-      "headers": {
-        "sec-ch-ua-platform": "\"Linux\"",
-        "referer": "https://epiembeds.online/",
-        "accept-language": "en-US,en;q=0.9",
-        "sec-ch-ua": "\"Not/A)Brand\";v=\"99\", \"Chromium\";v=\"148\"",
-        "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/148.0.0.0 Safari/537.36",
-        "sec-ch-ua-mobile": "?0"
-      }
-    },
-    {
       "serverName": "Player 6",
-      "url": "https://ds164.bluetier.top/beINAR/index.m3u8?token=YmVJTkFSfG5vX2NoZWNrX2lwfDE3ODk5MTgwNDI=.d896a868a3768b2abf6278b637b683e2964ea8d501d53b33703fbb2c823b1da5",
+      "url": "https://ds164.bluetier.top/beINAR/index.m3u8?token=YmVJTkFSfG5vX2NoZWNrX2lwfDE3ODk5MzU2ODc=.2d28a9a909995c00f32b21341e31586940c4112e37b62b2f5afe1d4ae490749a",
       "headers": {
         "sec-ch-ua-platform": "\"Linux\"",
         "referer": "https://wideiptv.top/",
