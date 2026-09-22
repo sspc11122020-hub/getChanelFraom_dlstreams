@@ -3,20 +3,8 @@
   "name": "beIN Sports 3 Arabic",
   "servers": [
     {
-      "serverName": "Player 3",
-      "url": "https://xameleon.phantemlis.top/four/secure/eabe1e0d64397de3928282adeb98b7b9/1789928612/premium93/index.m3u8",
-      "headers": {
-        "sec-ch-ua-platform": "\"Linux\"",
-        "referer": "https://hamis.romponalis.st/",
-        "accept-language": "en-US,en;q=0.9",
-        "sec-ch-ua": "\"Not/A)Brand\";v=\"99\", \"Chromium\";v=\"148\"",
-        "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/148.0.0.0 Safari/537.36",
-        "sec-ch-ua-mobile": "?0"
-      }
-    },
-    {
       "serverName": "Player 6",
-      "url": "https://ds164.bluetier.top/beINAR3/index.m3u8?token=YmVJTkFSM3xub19jaGVja19pcHwxNzg5OTE4MTM1.5cd56ee2d4be57e132b993f692da8a5e3084a2bbcd887515ab1c5095f72a05c9",
+      "url": "https://ds164.bluetier.top/beINAR3/index.m3u8?token=YmVJTkFSM3xub19jaGVja19pcHwxNzkwMTEwNjU0.d9097ae9f1dc1fabbc1ff3802fb5121d87c57649fc902cc5d5ad9fd8c7c5d271",
       "headers": {
         "sec-ch-ua-platform": "\"Linux\"",
         "referer": "https://wideiptv.top/",

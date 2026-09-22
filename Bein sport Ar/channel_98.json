@@ -3,20 +3,8 @@
   "name": "beIN Sports 8 Arabic",
   "servers": [
     {
-      "serverName": "Player 3",
-      "url": "https://xameleon.phantemlis.top/five/secure/96f65fac393d79287a826a94480ba582/1789928862/premium98/index.m3u8",
-      "headers": {
-        "sec-ch-ua-platform": "\"Linux\"",
-        "referer": "https://hamis.romponalis.st/",
-        "accept-language": "en-US,en;q=0.9",
-        "sec-ch-ua": "\"Not/A)Brand\";v=\"99\", \"Chromium\";v=\"148\"",
-        "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/148.0.0.0 Safari/537.36",
-        "sec-ch-ua-mobile": "?0"
-      }
-    },
-    {
       "serverName": "Player 6",
-      "url": "https://ds164.bluetier.top/beINAR8/index.m3u8?token=YmVJTkFSOHxub19jaGVja19pcHwxNzg5OTE4Mzg3.ba49acc27f5f0a84fef5a81aec27747998851f4695f55a009a65d95bf0e1c24a",
+      "url": "https://ds164.bluetier.top/beINAR8/index.m3u8?token=YmVJTkFSOHxub19jaGVja19pcHwxNzkwMTEwODg2.2dcce91c44c9902afd0808d9fcb7fd42d5a8718f5b502b5dda4b7cdac965749b",
       "headers": {
         "sec-ch-ua-platform": "\"Linux\"",
         "referer": "https://wideiptv.top/",
