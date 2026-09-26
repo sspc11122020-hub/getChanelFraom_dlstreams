@@ -3,8 +3,20 @@
   "name": "beIN Sports 8 Arabic",
   "servers": [
     {
+      "serverName": "Player 1",
+      "url": "https://edge.cowedd4855ws.sbs/premium98/index.m3u8?_=1790419853774",
+      "headers": {
+        "sec-ch-ua-platform": "\"Linux\"",
+        "referer": "https://daddyliveplayer.st/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not/A)Brand\";v=\"99\", \"Chromium\";v=\"148\"",
+        "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/148.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
       "serverName": "Player 6",
-      "url": "https://ds164.bluetier.top/beINAR8/index.m3u8?token=YmVJTkFSOHxub19jaGVja19pcHwxNzkwMTc5OTM1.cbda7d910d61f3728d84d855d4beb03858bf6e5bb952e9e2a2f5924ea7b2eadf",
+      "url": "https://ds164.bluetier.top/beINAR8/index.m3u8?token=YmVJTkFSOHxub19jaGVja19pcHwxNzkwNDIwMjAw.705fa9fdb91fc523b144d7c7871dd4ebc4e34d99d0404937639e1b38d984c3c2",
       "headers": {
         "sec-ch-ua-platform": "\"Linux\"",
         "referer": "https://wideiptv.top/",
