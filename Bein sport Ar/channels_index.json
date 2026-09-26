@@ -8,5 +8,10 @@
     "id": 92,
     "name": "beIN Sports 2 Arabic",
     "file": "channel_92.json"
+  },
+  {
+    "id": 94,
+    "name": "beIN Sports 4 Arabic",
+    "file": "channel_94.json"
   }
 ]
