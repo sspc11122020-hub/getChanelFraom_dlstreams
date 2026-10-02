@@ -4,7 +4,7 @@
   "servers": [
     {
       "serverName": "Player 1",
-      "url": "https://edge.cowedd4855ws.sbs/premium91/index.m3u8?_=1790913173732",
+      "url": "https://edge.cowedd4855ws.sbs/premium91/index.m3u8?_=1790941754110",
       "headers": {
         "sec-ch-ua-platform": "\"Linux\"",
         "referer": "https://daddyliveplayer.st/",
@@ -16,7 +16,7 @@
     },
     {
       "serverName": "Player 6",
-      "url": "https://ds164.bluetier.top/beINAR/index.m3u8?token=YmVJTkFSfG5vX2NoZWNrX2lwfDE3OTA5MTM1MjE=.7da26432e968d19559d21bec7ee6bf672b59f86cba2207a391a42fbfaf10b2fb",
+      "url": "https://ds164.bluetier.top/beINAR/index.m3u8?token=YmVJTkFSfG5vX2NoZWNrX2lwfDE3OTA5NDIxMDE=.7ce83a245c337bbf82099836d7720180f90c83758791c6d1bc6fc1408757f8ff",
       "headers": {
         "sec-ch-ua-platform": "\"Linux\"",
         "referer": "https://wideiptv.top/",
