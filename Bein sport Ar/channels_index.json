@@ -13,5 +13,10 @@
     "id": 93,
     "name": "beIN Sports 3 Arabic",
     "file": "channel_93.json"
+  },
+  {
+    "id": 96,
+    "name": "beIN Sports 6 Arabic",
+    "file": "channel_96.json"
   }
 ]
