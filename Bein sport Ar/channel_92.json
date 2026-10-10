@@ -3,11 +3,11 @@
   "name": "beIN Sports 2 Arabic",
   "servers": [
     {
-      "serverName": "Player 1",
-      "url": "https://edge.cowedd4855ws.sbs/premium92/index.m3u8?_=1791633097158",
+      "serverName": "Player 6",
+      "url": "https://ds169.bluetier.top/beINAR2/index.m3u8?token=YmVJTkFSMnxub19jaGVja19pcHwxNzkxNjY2Nzcx.1a83d33e7172c565244c6d59027bd08cd76972ce02fedc65e40d72a9e22f1c4f",
       "headers": {
         "sec-ch-ua-platform": "\"Linux\"",
-        "referer": "https://bembed.sbs/",
+        "referer": "https://wideiptv.top/",
         "accept-language": "en-US,en;q=0.9",
         "sec-ch-ua": "\"Not/A)Brand\";v=\"99\", \"Chromium\";v=\"148\"",
         "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/148.0.0.0 Safari/537.36",

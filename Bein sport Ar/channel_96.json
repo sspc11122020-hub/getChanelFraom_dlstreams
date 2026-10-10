@@ -3,11 +3,11 @@
   "name": "beIN Sports 6 Arabic",
   "servers": [
     {
-      "serverName": "Player 1",
-      "url": "https://edge.cowedd4855ws.sbs/premium96/index.m3u8?_=1791605581756",
+      "serverName": "Player 6",
+      "url": "https://ds169.bluetier.top/beINAR6/index.m3u8?token=YmVJTkFSNnxub19jaGVja19pcHwxNzkxNjY2OTcz.7d4695ddd42a641c7db3c0324a34f43b6166fb377c3f5fa5019f1bc1c468d571",
       "headers": {
         "sec-ch-ua-platform": "\"Linux\"",
-        "referer": "https://dembed.top/",
+        "referer": "https://wideiptv.top/",
         "accept-language": "en-US,en;q=0.9",
         "sec-ch-ua": "\"Not/A)Brand\";v=\"99\", \"Chromium\";v=\"148\"",
         "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/148.0.0.0 Safari/537.36",
