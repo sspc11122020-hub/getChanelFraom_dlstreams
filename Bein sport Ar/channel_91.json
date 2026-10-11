@@ -4,10 +4,10 @@
   "servers": [
     {
       "serverName": "Player 1",
-      "url": "https://edge.cowedd4855ws.sbs/premium91/index.m3u8?_=1791690322071",
+      "url": "https://edge.cowedd4855ws.sbs/premium91/index.m3u8?_=1791720145205",
       "headers": {
         "sec-ch-ua-platform": "\"Linux\"",
-        "referer": "https://bembed.sbs/",
+        "referer": "https://dembed.st/",
         "accept-language": "en-US,en;q=0.9",
         "sec-ch-ua": "\"Not/A)Brand\";v=\"99\", \"Chromium\";v=\"148\"",
         "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/148.0.0.0 Safari/537.36",
@@ -16,7 +16,7 @@
     },
     {
       "serverName": "Player 6",
-      "url": "https://ds169.bluetier.top/beINAR/index.m3u8?token=YmVJTkFSfG5vX2NoZWNrX2lwfDE3OTE2OTA2NjA=.b5a35415b0ce6d92026c9848aaf8b0c14a92368ed269915dbbfb720e3fc0a5c4",
+      "url": "https://ds169.bluetier.top/beINAR/index.m3u8?token=YmVJTkFSfG5vX2NoZWNrX2lwfDE3OTE3MjA0ODY=.82fd1ea3249410745a545474d27815b753ceb4314a3db9a1bf31a13c16caf73b",
       "headers": {
         "sec-ch-ua-platform": "\"Linux\"",
         "referer": "https://wideiptv.top/",
