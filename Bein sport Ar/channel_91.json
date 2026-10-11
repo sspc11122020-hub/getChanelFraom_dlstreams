@@ -4,7 +4,7 @@
   "servers": [
     {
       "serverName": "Player 1",
-      "url": "https://edge.cowedd4855ws.sbs/premium91/index.m3u8?_=1791666370260",
+      "url": "https://edge.cowedd4855ws.sbs/premium91/index.m3u8?_=1791690322071",
       "headers": {
         "sec-ch-ua-platform": "\"Linux\"",
         "referer": "https://bembed.sbs/",
@@ -16,7 +16,7 @@
     },
     {
       "serverName": "Player 6",
-      "url": "https://ds169.bluetier.top/beINAR/index.m3u8?token=YmVJTkFSfG5vX2NoZWNrX2lwfDE3OTE2NjY3MjA=.c6f8c760cde9602bcbc2bddca653c93c9b056fe91f5a49c4e670aaa8af74cedf",
+      "url": "https://ds169.bluetier.top/beINAR/index.m3u8?token=YmVJTkFSfG5vX2NoZWNrX2lwfDE3OTE2OTA2NjA=.b5a35415b0ce6d92026c9848aaf8b0c14a92368ed269915dbbfb720e3fc0a5c4",
       "headers": {
         "sec-ch-ua-platform": "\"Linux\"",
         "referer": "https://wideiptv.top/",
