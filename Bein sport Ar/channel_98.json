@@ -3,8 +3,20 @@
   "name": "beIN Sports 8 Arabic",
   "servers": [
     {
+      "serverName": "Player 3",
+      "url": "https://edge.cowedd4855ws.sbs/premium98/index.m3u8?_=1791930005615",
+      "headers": {
+        "sec-ch-ua-platform": "\"Linux\"",
+        "referer": "https://dembed.st/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not/A)Brand\";v=\"99\", \"Chromium\";v=\"148\"",
+        "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/148.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
       "serverName": "Player 6",
-      "url": "https://ds169.bluetier.top/beINAR8/index.m3u8?token=YmVJTkFSOHxub19jaGVja19pcHwxNzkxODk4NzAx.d039ffd5ac42eef80f551f49b1dc1ae984542444d93993633e47081a1e196ad6",
+      "url": "https://ds169.bluetier.top/beINAR8/index.m3u8?token=YmVJTkFSOHxub19jaGVja19pcHwxNzkxOTMwMzI0.5b00d9f46734c875f864340aa20c744909482ab76050df62224775fe8867ac2e",
       "headers": {
         "sec-ch-ua-platform": "\"Linux\"",
         "referer": "https://wideiptv.top/",

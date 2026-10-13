@@ -3,11 +3,47 @@
   "name": "beIN Sports 9 Arabic",
   "servers": [
     {
+      "serverName": "Player 1",
+      "url": "https://edge.cowedd4855ws.sbs/premium99/index.m3u8?_=1791930030840",
+      "headers": {
+        "sec-ch-ua-platform": "\"Linux\"",
+        "referer": "https://dembed.st/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not/A)Brand\";v=\"99\", \"Chromium\";v=\"148\"",
+        "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/148.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "serverName": "Player 3",
+      "url": "https://edge.cowedd4855ws.sbs/premium99/index.m3u8?_=1791930044634",
+      "headers": {
+        "sec-ch-ua-platform": "\"Linux\"",
+        "referer": "https://dembed.st/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not/A)Brand\";v=\"99\", \"Chromium\";v=\"148\"",
+        "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/148.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
       "serverName": "Player 6",
-      "url": "https://ds169.bluetier.top/beINAR9/index.m3u8?token=YmVJTkFSOXxub19jaGVja19pcHwxNzkxODk4NzM3.4dd873c88d11f5bbfe03c5f683d19fbd492a31980cf4aa834290705c0f7842fc",
+      "url": "https://ds169.bluetier.top/beINAR9/index.m3u8?token=YmVJTkFSOXxub19jaGVja19pcHwxNzkxOTMwMzYw.721dbff95932c7e7d96786dc11ca5f11a12383b6d15733193e8f25f12144ab02",
       "headers": {
         "sec-ch-ua-platform": "\"Linux\"",
         "referer": "https://wideiptv.top/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not/A)Brand\";v=\"99\", \"Chromium\";v=\"148\"",
+        "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/148.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "serverName": "Player 7",
+      "url": "https://edge.cowedd4855ws.sbs/premium99/index.m3u8?_=1791930063664",
+      "headers": {
+        "sec-ch-ua-platform": "\"Linux\"",
+        "referer": "https://dembed.st/",
         "accept-language": "en-US,en;q=0.9",
         "sec-ch-ua": "\"Not/A)Brand\";v=\"99\", \"Chromium\";v=\"148\"",
         "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/148.0.0.0 Safari/537.36",
