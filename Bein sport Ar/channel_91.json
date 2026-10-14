@@ -4,7 +4,7 @@
   "servers": [
     {
       "serverName": "Player 1",
-      "url": "https://edge.cowedd4855ws.sbs/premium91/index.m3u8?_=1791995212524",
+      "url": "https://edge.cowedd4855ws.sbs/premium91/index.m3u8?_=1792012523814",
       "headers": {
         "sec-ch-ua-platform": "\"Linux\"",
         "referer": "https://dembed.st/",
@@ -16,22 +16,10 @@
     },
     {
       "serverName": "Player 4",
-      "url": "https://judiaslevels.embeds.gay/main/secure/4331386ad735a3552ae5efe5398c5be5568e69c4ae626bdeb501e693d09ea00f/1792004231/beinsports1-sa.m3u8",
+      "url": "https://judiaslevels.embeds.gay/main/secure/5f0b7f7e9bd23e046ee3f2a10328bdc4b74577308943630996346ac91a35fc25/1792021540/beinsports1-sa.m3u8",
       "headers": {
         "sec-ch-ua-platform": "\"Linux\"",
         "referer": "https://ehgembxe.cfd/",
-        "accept-language": "en-US,en;q=0.9",
-        "sec-ch-ua": "\"Not/A)Brand\";v=\"99\", \"Chromium\";v=\"148\"",
-        "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/148.0.0.0 Safari/537.36",
-        "sec-ch-ua-mobile": "?0"
-      }
-    },
-    {
-      "serverName": "Player 6",
-      "url": "https://ds169.bluetier.top/beINAR/index.m3u8?token=YmVJTkFSfG5vX2NoZWNrX2lwfDE3OTE5OTU1NDg=.bfb585f33a01c5eb7ea99724a3e4033ad81c2095f9c3ada711193213764bc425",
-      "headers": {
-        "sec-ch-ua-platform": "\"Linux\"",
-        "referer": "https://wideiptv.top/",
         "accept-language": "en-US,en;q=0.9",
         "sec-ch-ua": "\"Not/A)Brand\";v=\"99\", \"Chromium\";v=\"148\"",
         "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/148.0.0.0 Safari/537.36",
