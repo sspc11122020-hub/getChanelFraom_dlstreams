@@ -4,7 +4,7 @@
   "servers": [
     {
       "serverName": "Player 3",
-      "url": "https://edge.cowedd4855ws.sbs/premium92/index.m3u8?_=1791929782953",
+      "url": "https://edge.cowedd4855ws.sbs/premium92/index.m3u8?_=1791948207624",
       "headers": {
         "sec-ch-ua-platform": "\"Linux\"",
         "referer": "https://dembed.st/",
@@ -15,23 +15,27 @@
       }
     },
     {
+      "serverName": "Player 4",
+      "url": "https://judiaslevels.embeds.gay/main/secure/361666d1e62308dba6a989e91277438e7da3aba2ce616141a70269a8ab1ca7cc/1791957210/beinsports2-sa.m3u8",
+      "headers": {
+        "sec-ch-ua-platform": "\"Linux\"",
+        "referer": "https://ehgembxe.cfd/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not/A)Brand\";v=\"99\", \"Chromium\";v=\"148\"",
+        "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/148.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
       "serverName": "Player 6",
-      "url": "https://ds169.bluetier.top/beINAR2/index.m3u8?token=YmVJTkFSMnxub19jaGVja19pcHwxNzkxOTMwMDk4.a6f1b8bd2a1f14b015c61f28af9ff777a8ec535a67d6ee4d67a60aacc374bd72",
+      "url": "https://ds169.bluetier.top/beINAR2/index.m3u8?token=YmVJTkFSMnxub19jaGVja19pcHwxNzkxOTQ4NTI0.938670c8c93e77ed5f155292574e2346e45840f6f7c083450203cac6d17100d1",
       "headers": {
         "sec-ch-ua-platform": "\"Linux\"",
         "referer": "https://wideiptv.top/",
         "accept-language": "en-US,en;q=0.9",
         "sec-ch-ua": "\"Not/A)Brand\";v=\"99\", \"Chromium\";v=\"148\"",
         "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/148.0.0.0 Safari/537.36",
-        "sec-ch-ua-mobile": "?0",
-        "accept": "*/*",
-        "accept-encoding": "gzip, deflate, br, zstd",
-        "connection": "keep-alive",
-        "host": "ds169.bluetier.top",
-        "origin": "https://wideiptv.top",
-        "sec-fetch-dest": "empty",
-        "sec-fetch-mode": "cors",
-        "sec-fetch-site": "cross-site"
+        "sec-ch-ua-mobile": "?0"
       }
     }
   ]

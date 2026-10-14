@@ -3,47 +3,11 @@
   "name": "beIN Sports 3 Arabic",
   "servers": [
     {
-      "serverName": "Player 3",
-      "url": "https://edge.cowedd4855ws.sbs/premium93/index.m3u8?_=1791929819360",
-      "headers": {
-        "sec-ch-ua-platform": "\"Linux\"",
-        "referer": "https://dembed.st/",
-        "accept-language": "en-US,en;q=0.9",
-        "sec-ch-ua": "\"Not/A)Brand\";v=\"99\", \"Chromium\";v=\"148\"",
-        "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/148.0.0.0 Safari/537.36",
-        "sec-ch-ua-mobile": "?0"
-      }
-    },
-    {
-      "serverName": "Player 4",
-      "url": "https://judiaslevels.embeds.gay/main/secure/19166bae19aedc9401b2de2689a3d6ec5f748a299b4e3227a24319f27c4dc77c/1791938821/beinsports3-sa.m3u8",
-      "headers": {
-        "sec-ch-ua-platform": "\"Linux\"",
-        "referer": "https://ehgembxe.cfd/",
-        "accept-language": "en-US,en;q=0.9",
-        "sec-ch-ua": "\"Not/A)Brand\";v=\"99\", \"Chromium\";v=\"148\"",
-        "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/148.0.0.0 Safari/537.36",
-        "sec-ch-ua-mobile": "?0"
-      }
-    },
-    {
       "serverName": "Player 6",
-      "url": "https://ds169.bluetier.top/beINAR3/index.m3u8?token=YmVJTkFSM3xub19jaGVja19pcHwxNzkxOTMwMTM1.dd21691e87f6b5b7b9a21fe7eeacd2c52e02e5e085c8c5ecf295511787563c8c",
+      "url": "https://ds169.bluetier.top/beINAR3/index.m3u8?token=YmVJTkFSM3xub19jaGVja19pcHwxNzkxOTQ4NTYx.5af344331380c36fbffefe3aa4d9de22ab4752ab6dbff7cee46d94ee43042533",
       "headers": {
         "sec-ch-ua-platform": "\"Linux\"",
         "referer": "https://wideiptv.top/",
-        "accept-language": "en-US,en;q=0.9",
-        "sec-ch-ua": "\"Not/A)Brand\";v=\"99\", \"Chromium\";v=\"148\"",
-        "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/148.0.0.0 Safari/537.36",
-        "sec-ch-ua-mobile": "?0"
-      }
-    },
-    {
-      "serverName": "Player 7",
-      "url": "https://edge.cowedd4855ws.sbs/premium93/index.m3u8?_=1791929839409",
-      "headers": {
-        "sec-ch-ua-platform": "\"Linux\"",
-        "referer": "https://dembed.st/",
         "accept-language": "en-US,en;q=0.9",
         "sec-ch-ua": "\"Not/A)Brand\";v=\"99\", \"Chromium\";v=\"148\"",
         "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/148.0.0.0 Safari/537.36",

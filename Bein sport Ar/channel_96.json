@@ -3,35 +3,11 @@
   "name": "beIN Sports 6 Arabic",
   "servers": [
     {
-      "serverName": "Player 3",
-      "url": "https://edge.cowedd4855ws.sbs/premium96/index.m3u8?_=1791929932518",
-      "headers": {
-        "sec-ch-ua-platform": "\"Linux\"",
-        "referer": "https://dembed.st/",
-        "accept-language": "en-US,en;q=0.9",
-        "sec-ch-ua": "\"Not/A)Brand\";v=\"99\", \"Chromium\";v=\"148\"",
-        "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/148.0.0.0 Safari/537.36",
-        "sec-ch-ua-mobile": "?0"
-      }
-    },
-    {
       "serverName": "Player 6",
-      "url": "https://ds169.bluetier.top/beINAR6/index.m3u8?token=YmVJTkFSNnxub19jaGVja19pcHwxNzkxOTMwMjQ4.38ed995b5c9a233fbd98abf727e0036bde93fc41c635eaea1027312319ff8894",
+      "url": "https://ds169.bluetier.top/beINAR6/index.m3u8?token=YmVJTkFSNnxub19jaGVja19pcHwxNzkxOTQ4NjY5.662011ffe4e802181166b6fce3a3b2f35d159dcb02f420f9df1fbc8f706004c8",
       "headers": {
         "sec-ch-ua-platform": "\"Linux\"",
         "referer": "https://wideiptv.top/",
-        "accept-language": "en-US,en;q=0.9",
-        "sec-ch-ua": "\"Not/A)Brand\";v=\"99\", \"Chromium\";v=\"148\"",
-        "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/148.0.0.0 Safari/537.36",
-        "sec-ch-ua-mobile": "?0"
-      }
-    },
-    {
-      "serverName": "Player 7",
-      "url": "https://edge.cowedd4855ws.sbs/premium96/index.m3u8?_=1791929951821",
-      "headers": {
-        "sec-ch-ua-platform": "\"Linux\"",
-        "referer": "https://dembed.st/",
         "accept-language": "en-US,en;q=0.9",
         "sec-ch-ua": "\"Not/A)Brand\";v=\"99\", \"Chromium\";v=\"148\"",
         "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/148.0.0.0 Safari/537.36",
