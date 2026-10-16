@@ -3,8 +3,20 @@
   "name": "beIN Sports 2 Arabic",
   "servers": [
     {
+      "serverName": "Player 1",
+      "url": "https://edge.cowedd4855ws.sbs/premium92/index.m3u8?_=1792166458313",
+      "headers": {
+        "sec-ch-ua-platform": "\"Linux\"",
+        "referer": "https://dembed.st/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not/A)Brand\";v=\"99\", \"Chromium\";v=\"148\"",
+        "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/148.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
       "serverName": "Player 3",
-      "url": "https://edge.cowedd4855ws.sbs/premium92/index.m3u8?_=1792147071046",
+      "url": "https://edge.cowedd4855ws.sbs/premium92/index.m3u8?_=1792166473244",
       "headers": {
         "sec-ch-ua-platform": "\"Linux\"",
         "referer": "https://dembed.st/",
@@ -16,7 +28,7 @@
     },
     {
       "serverName": "Player 4",
-      "url": "https://judiaslevels.embeds.gay/main/secure/930edaa01e6710cac5d098d2d9f86eafb1939424d61e1328eb9834108c80f699/1792156073/beinsports2-sa.m3u8",
+      "url": "https://judiaslevels.embeds.gay/main/secure/577e5d936448073e8523c07ade7e452381d59c8db1d1dd010524fecff2448b4d/1792175476/beinsports2-sa.m3u8",
       "headers": {
         "sec-ch-ua-platform": "\"Linux\"",
         "referer": "https://ehgembxe.cfd/",
@@ -28,7 +40,7 @@
     },
     {
       "serverName": "Player 6",
-      "url": "https://ds169.bluetier.top/beINAR2/index.m3u8?token=YmVJTkFSMnxub19jaGVja19pcHwxNzkyMTQ3Mzg4.20216ed0817f903269a388a503461e702a330fd2d6513aa466b44647f6ce0e45",
+      "url": "https://ds169.bluetier.top/beINAR2/index.m3u8?token=YmVJTkFSMnxub19jaGVja19pcHwxNzkyMTY2Nzkw.4990fc343c4317d1faf8ef05692f7a304e01b1cade614bcb2ce228829c9341b4",
       "headers": {
         "sec-ch-ua-platform": "\"Linux\"",
         "referer": "https://wideiptv.top/",
