@@ -3,8 +3,20 @@
   "name": "beIN Sports 1 Arabic",
   "servers": [
     {
+      "serverName": "Player 1",
+      "url": "https://edge.cowedd4855ws.sbs/premium91/index.m3u8?_=1792205398965",
+      "headers": {
+        "sec-ch-ua-platform": "\"Linux\"",
+        "referer": "https://dembed.st/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not/A)Brand\";v=\"99\", \"Chromium\";v=\"148\"",
+        "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/148.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
       "serverName": "Player 6",
-      "url": "https://ds169.bluetier.top/beINAR/index.m3u8?token=YmVJTkFSfG5vX2NoZWNrX2lwfDE3OTIxODI3OTU=.14a7e738648cf40e6f2aca09bcb5e0f3d44f33431497672dbe33c4e04aa95770",
+      "url": "https://ds169.bluetier.top/beINAR/index.m3u8?token=YmVJTkFSfG5vX2NoZWNrX2lwfDE3OTIyMDU3MzI=.71d2f819e2e134f2fe23c98e74fb829233a2f3d9b01f489dcdac9726598cbd93",
       "headers": {
         "sec-ch-ua-platform": "\"Linux\"",
         "referer": "https://wideiptv.top/",
