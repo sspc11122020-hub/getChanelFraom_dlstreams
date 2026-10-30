@@ -4,14 +4,22 @@
   "servers": [
     {
       "serverName": "Player 6",
-      "url": "https://ds169.bluetier.top/beINAR4/index.m3u8?token=YmVJTkFSNHxub19jaGVja19pcHwxNzkzMzMzOTcz.2e77c5cbb4de4694db43c2d00a587846e2c18e0aa045a135a14f4a30e2d0bd24",
+      "url": "https://cdn.wideiptv.top/beINAR4/index.m3u8?token=YmVJTkFSNHxub19jaGVja19pcHwxNzkzMzYyMjcz.0cf2db5fea91dc194c8d8221fd898b54fc115f98cbe55017e6e6749bac847c17",
       "headers": {
         "sec-ch-ua-platform": "\"Linux\"",
         "referer": "https://wideiptv.top/",
         "accept-language": "en-US,en;q=0.9",
         "sec-ch-ua": "\"Not/A)Brand\";v=\"99\", \"Chromium\";v=\"148\"",
         "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/148.0.0.0 Safari/537.36",
-        "sec-ch-ua-mobile": "?0"
+        "sec-ch-ua-mobile": "?0",
+        "accept": "*/*",
+        "accept-encoding": "gzip, deflate, br, zstd",
+        "connection": "keep-alive",
+        "host": "cdn.wideiptv.top",
+        "origin": "https://wideiptv.top",
+        "sec-fetch-dest": "empty",
+        "sec-fetch-mode": "cors",
+        "sec-fetch-site": "same-site"
       }
     }
   ]
