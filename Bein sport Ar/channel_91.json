@@ -4,7 +4,7 @@
   "servers": [
     {
       "serverName": "Player 6",
-      "url": "https://cdn.wideiptv.top/beINAR/index.m3u8?token=YmVJTkFSfG5vX2NoZWNrX2lwfDE3OTM0MTkxODI=.7544b842df00276d8be46a03676a94a08ca20050d9dd1412e6573dc736a47c9f",
+      "url": "https://cdn.wideiptv.top/beINAR/index.m3u8?token=YmVJTkFSfG5vX2NoZWNrX2lwfDE3OTM0NDcwMjM=.5aa858d15eb4164db9d866155f24d7e7ae9aaa45019cd2bc1c107a1b2cf07336",
       "headers": {
         "sec-ch-ua-platform": "\"Linux\"",
         "referer": "https://wideiptv.top/",
