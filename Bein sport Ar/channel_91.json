@@ -3,8 +3,20 @@
   "name": "beIN Sports 1 Arabic",
   "servers": [
     {
+      "serverName": "Player 4",
+      "url": "https://tims-001.sytes.net/main/secure/d71d6d85f391a154dae87910fafe14f856465b2674427255311b9c954f6638ac/1793578149/beinsports1-sa.m3u8",
+      "headers": {
+        "sec-ch-ua-platform": "\"Linux\"",
+        "referer": "https://ehgembxe.cfd/",
+        "accept-language": "en-US,en;q=0.9",
+        "sec-ch-ua": "\"Not/A)Brand\";v=\"99\", \"Chromium\";v=\"148\"",
+        "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/148.0.0.0 Safari/537.36",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
       "serverName": "Player 6",
-      "url": "https://cdn.wideiptv.top/beINAR/index.m3u8?token=YmVJTkFSfG5vX2NoZWNrX2lwfDE3OTM1MzY5NzQ=.f21e7c0a115803eb1ce06f1b1ee81b4f009cf1c0c514783a67afb8a1290ad484",
+      "url": "https://cdn.wideiptv.top/beINAR/index.m3u8?token=YmVJTkFSfG5vX2NoZWNrX2lwfDE3OTM1Njk0NjM=.e24f49b1fc3314aaa261465b692d20d3873b8b61d7d5854b14eff7b12c027b5a",
       "headers": {
         "sec-ch-ua-platform": "\"Linux\"",
         "referer": "https://wideiptv.top/",
