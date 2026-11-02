@@ -4,19 +4,27 @@
   "servers": [
     {
       "serverName": "Player 4",
-      "url": "https://tims-001.sytes.net/main/secure/d71d6d85f391a154dae87910fafe14f856465b2674427255311b9c954f6638ac/1793578149/beinsports1-sa.m3u8",
+      "url": "https://tims-001.sytes.net/main/secure/b90da6f1a7c567f2481d6d78fdf5052c7babbf1fc66f15c9341f218961c16cd9/1793601671/beinsports1-sa.m3u8",
       "headers": {
         "sec-ch-ua-platform": "\"Linux\"",
         "referer": "https://ehgembxe.cfd/",
         "accept-language": "en-US,en;q=0.9",
         "sec-ch-ua": "\"Not/A)Brand\";v=\"99\", \"Chromium\";v=\"148\"",
         "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/148.0.0.0 Safari/537.36",
-        "sec-ch-ua-mobile": "?0"
+        "sec-ch-ua-mobile": "?0",
+        "accept": "*/*",
+        "accept-encoding": "gzip, deflate, br, zstd",
+        "connection": "keep-alive",
+        "host": "tims-001.sytes.net",
+        "origin": "https://ehgembxe.cfd",
+        "sec-fetch-dest": "empty",
+        "sec-fetch-mode": "cors",
+        "sec-fetch-site": "cross-site"
       }
     },
     {
       "serverName": "Player 6",
-      "url": "https://cdn.wideiptv.top/beINAR/index.m3u8?token=YmVJTkFSfG5vX2NoZWNrX2lwfDE3OTM1Njk0NjM=.e24f49b1fc3314aaa261465b692d20d3873b8b61d7d5854b14eff7b12c027b5a",
+      "url": "https://cdn.wideiptv.top/beINAR/index.m3u8?token=YmVJTkFSfG5vX2NoZWNrX2lwfDE3OTM1OTI5ODU=.e40b7389995378048bc6d0ccb2acb2f62d31c9ff212c6b3cf98966baff2cd27f",
       "headers": {
         "sec-ch-ua-platform": "\"Linux\"",
         "referer": "https://wideiptv.top/",
