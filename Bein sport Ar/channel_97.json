@@ -4,7 +4,7 @@
   "servers": [
     {
       "serverName": "Player 4",
-      "url": "https://tims-001.sytes.net/main/secure/1d3a8f7d9ccc14e54c182d175afe36c49b16d4fe65ff3a17ac1c9da92f9168d3/1793896222/beinsports7-sa.m3u8",
+      "url": "https://tims-001.sytes.net/main/secure/4b5a889f36c5198099d507e9623c7e0580d3ab9e51e660ddf95e1245452f6a76/1793929691/beinsports7-sa.m3u8",
       "headers": {
         "sec-ch-ua-platform": "\"Linux\"",
         "referer": "https://ehgembxe.cfd/",
@@ -24,14 +24,22 @@
     },
     {
       "serverName": "Player 6",
-      "url": "https://cdn.wideiptv.top/beINAR7/index.m3u8?token=YmVJTkFSN3xub19jaGVja19pcHwxNzkzODg3NTM2.486008de7dd8fa2bd10a3acd068ef5776ec25cf0b700804c0dfcc06d7e90f4ca",
+      "url": "https://cdn.wideiptv.top/beINAR7/index.m3u8?token=YmVJTkFSN3xub19jaGVja19pcHwxNzkzOTIxMDA1.6fa01502618b3e9bfda637c90bef084a1ea9ddca0e9e472b6251f1c5f08d5fc9",
       "headers": {
         "sec-ch-ua-platform": "\"Linux\"",
         "referer": "https://wideiptv.top/",
         "accept-language": "en-US,en;q=0.9",
         "sec-ch-ua": "\"Not/A)Brand\";v=\"99\", \"Chromium\";v=\"148\"",
         "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/148.0.0.0 Safari/537.36",
-        "sec-ch-ua-mobile": "?0"
+        "sec-ch-ua-mobile": "?0",
+        "accept": "*/*",
+        "accept-encoding": "gzip, deflate, br, zstd",
+        "connection": "keep-alive",
+        "host": "cdn.wideiptv.top",
+        "origin": "https://wideiptv.top",
+        "sec-fetch-dest": "empty",
+        "sec-fetch-mode": "cors",
+        "sec-fetch-site": "same-site"
       }
     }
   ]
