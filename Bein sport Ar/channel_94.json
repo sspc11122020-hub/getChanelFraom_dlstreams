@@ -3,28 +3,8 @@
   "name": "beIN Sports 4 Arabic",
   "servers": [
     {
-      "serverName": "Player 4",
-      "url": "https://tims-001.sytes.net/main/secure/8481f5b61cdc423965b2a9b75d32c93fed35bec12f9970820c32f9631bd4c0f2/1793981631/beinsports4-sa.m3u8",
-      "headers": {
-        "sec-ch-ua-platform": "\"Linux\"",
-        "referer": "https://ehgembxe.cfd/",
-        "accept-language": "en-US,en;q=0.9",
-        "sec-ch-ua": "\"Not/A)Brand\";v=\"99\", \"Chromium\";v=\"148\"",
-        "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/148.0.0.0 Safari/537.36",
-        "sec-ch-ua-mobile": "?0",
-        "accept": "*/*",
-        "accept-encoding": "gzip, deflate, br, zstd",
-        "connection": "keep-alive",
-        "host": "tims-001.sytes.net",
-        "origin": "https://ehgembxe.cfd",
-        "sec-fetch-dest": "empty",
-        "sec-fetch-mode": "cors",
-        "sec-fetch-site": "cross-site"
-      }
-    },
-    {
       "serverName": "Player 6",
-      "url": "https://cdn.wideiptv.top/beINAR4/index.m3u8?token=YmVJTkFSNHxub19jaGVja19pcHwxNzkzOTcyOTQ1.d53d977b9adf6da6f552f7bd286d66fb4c7af1d12eb4c27417666b9a97d4a1f0",
+      "url": "https://cdn.wideiptv.top/beINAR4/index.m3u8?token=YmVJTkFSNHxub19jaGVja19pcHwxNzk0MDA1Mjgw.896b6b51516673f850dd729b9bcba247f8d655a3d32ac0c6016fe3fcba6f178e",
       "headers": {
         "sec-ch-ua-platform": "\"Linux\"",
         "referer": "https://wideiptv.top/",
