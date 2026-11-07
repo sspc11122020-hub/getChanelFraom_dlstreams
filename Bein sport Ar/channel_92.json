@@ -4,7 +4,7 @@
   "servers": [
     {
       "serverName": "Player 4",
-      "url": "https://tims-001.sytes.net/main/secure/2bacf1ddf9f18f3ab2f2768f38e155b32d2145e107a58501699eba2e79df9d17/1794063222/beinsports2-sa.m3u8",
+      "url": "https://tims-001.sytes.net/main/secure/2bf7e693b151610f9ad0356d502bb0afafb0c3b6d08aea2693a3d4aab63e50c1/1794095682/beinsports2-sa.m3u8",
       "headers": {
         "sec-ch-ua-platform": "\"Linux\"",
         "referer": "https://ehgembxe.cfd/",
@@ -24,7 +24,7 @@
     },
     {
       "serverName": "Player 6",
-      "url": "https://cdn.wideiptv.top/beINAR2/index.m3u8?token=YmVJTkFSMnxub19jaGVja19pcHwxNzk0MDU0NTM3.0f90718881ac1e181494375f090c538e32631c8b3b6f7a08114a49706721fbcc",
+      "url": "https://cdn.wideiptv.top/beINAR2/index.m3u8?token=YmVJTkFSMnxub19jaGVja19pcHwxNzk0MDg2OTk3.51811baa6474f935f7759247e2eaeee8fb15e23edeaf1bc93bb4b8b404ca405e",
       "headers": {
         "sec-ch-ua-platform": "\"Linux\"",
         "referer": "https://wideiptv.top/",
