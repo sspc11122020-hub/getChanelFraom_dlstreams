@@ -3,11 +3,11 @@
   "name": "beIN Sports 6 Arabic",
   "servers": [
     {
-      "serverName": "Player 4",
-      "url": "https://tims-001.sytes.net/main/secure/271736747cdc472a6e79c1e948f93b135ad248a7efa96790b2cb8fd9e2a53326/1794095849/beinsports6-sa.m3u8",
+      "serverName": "Player 6",
+      "url": "https://cdn.wideiptv.top/beINAR6/index.m3u8?token=YmVJTkFSNnxub19jaGVja19pcHwxNzk0MTExNjcz.14d70e402de95ce9d5924e984ab05e09153f09d74fda1d3cd39c0c18beec2de5",
       "headers": {
         "sec-ch-ua-platform": "\"Linux\"",
-        "referer": "https://ehgembxe.cfd/",
+        "referer": "https://wideiptv.top/",
         "accept-language": "en-US,en;q=0.9",
         "sec-ch-ua": "\"Not/A)Brand\";v=\"99\", \"Chromium\";v=\"148\"",
         "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/148.0.0.0 Safari/537.36",
@@ -15,23 +15,11 @@
         "accept": "*/*",
         "accept-encoding": "gzip, deflate, br, zstd",
         "connection": "keep-alive",
-        "host": "tims-001.sytes.net",
-        "origin": "https://ehgembxe.cfd",
+        "host": "cdn.wideiptv.top",
+        "origin": "https://wideiptv.top",
         "sec-fetch-dest": "empty",
         "sec-fetch-mode": "cors",
-        "sec-fetch-site": "cross-site"
-      }
-    },
-    {
-      "serverName": "Player 6",
-      "url": "https://cdn.wideiptv.top/beINAR6/index.m3u8?token=YmVJTkFSNnxub19jaGVja19pcHwxNzk0MDg3MTY0.d0a77710811ad22d89d631f6f1ab31c09e4b5cdc71349300fb1290a031f6d3b4",
-      "headers": {
-        "sec-ch-ua-platform": "\"Linux\"",
-        "referer": "https://wideiptv.top/",
-        "accept-language": "en-US,en;q=0.9",
-        "sec-ch-ua": "\"Not/A)Brand\";v=\"99\", \"Chromium\";v=\"148\"",
-        "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/148.0.0.0 Safari/537.36",
-        "sec-ch-ua-mobile": "?0"
+        "sec-fetch-site": "same-site"
       }
     }
   ]
